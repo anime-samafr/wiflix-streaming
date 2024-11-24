@@ -6,6 +6,6 @@ button.className = "btn";
 
 button.addEventListener("click", function() {
   
-  window.open("https://wiflix-streaming.xyz/", "_blank");
+  window.open("https://vf.wiflix-streaming.xyz/", "_blank");
 });
 document.getElementById("btncnt").appendChild(button);
